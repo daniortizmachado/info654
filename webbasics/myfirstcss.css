@@ -157,4 +157,10 @@ footer {
   font-family: "Outfit", sans-serif;
   border-radius: 8px;
   }
-
+#projects {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+font-family: "Outfit", sans-serif;
+text-align: center;
+}
